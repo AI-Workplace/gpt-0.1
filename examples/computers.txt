@@ -1,0 +1,400 @@
+The developer found a virus in the code.
+The software on the desktop crashed because of a error.
+The programmer found a glitch in the database.
+The student installed the network on the computer.
+The network on the server crashed because of a bug.
+The admin found a bug in the program.
+The programmer updated the program on the computer.
+The admin found a bug in the database.
+Every engineer tested the desktop after the crash.
+The code on the machine crashed because of a virus.
+The admin found a bug in the file.
+The admin found a virus in the program.
+Every programmer updated the machine after the error.
+A error stopped the computer in the cloud.
+A glitch stopped the computer in the lab.
+The engineer installed the network on the machine.
+The file on the machine crashed because of a glitch.
+The engineer found a bug in the database.
+The student fixed the database on the computer.
+A error stopped the desktop in the office.
+The student restarted the code on the computer.
+A programmer in the lab debugged the software.
+A analyst in the datacenter installed the file.
+A student in the cloud debugged the program.
+A engineer in the datacenter debugged the program.
+The student debugged the code on the server.
+Every developer installed the machine after the bug.
+Every student restarted the desktop after the virus.
+Every admin installed the laptop after the error.
+A student in the office debugged the software.
+A analyst in the datacenter tested the file.
+A engineer in the cloud restarted the file.
+The student found a glitch in the code.
+The analyst found a error in the software.
+The engineer found a bug in the program.
+The code on the computer crashed because of a glitch.
+The network on the computer crashed because of a bug.
+The code on the machine crashed because of a virus.
+The software on the computer crashed because of a glitch.
+The engineer tested the code on the laptop.
+The software on the laptop crashed because of a crash.
+A analyst in the datacenter debugged the code.
+A developer in the datacenter updated the code.
+The database on the computer crashed because of a crash.
+A glitch stopped the desktop in the datacenter.
+The network on the machine crashed because of a glitch.
+A programmer in the datacenter tested the database.
+Every analyst updated the server after the virus.
+The code on the machine crashed because of a bug.
+A student in the datacenter installed the code.
+A bug stopped the desktop in the office.
+The analyst found a virus in the network.
+The engineer debugged the database on the server.
+The admin tested the program on the desktop.
+A glitch stopped the machine in the office.
+A bug stopped the machine in the cloud.
+Every analyst updated the computer after the error.
+A student in the datacenter installed the program.
+A virus stopped the laptop in the office.
+A developer in the lab installed the network.
+A developer in the datacenter tested the network.
+The program on the laptop crashed because of a error.
+A glitch stopped the desktop in the cloud.
+The admin fixed the database on the computer.
+The engineer tested the network on the laptop.
+A error stopped the desktop in the lab.
+The file on the server crashed because of a virus.
+A engineer in the datacenter tested the network.
+The programmer found a glitch in the network.
+A error stopped the server in the office.
+A programmer in the cloud restarted the file.
+A error stopped the desktop in the lab.
+The code on the machine crashed because of a crash.
+The student fixed the network on the laptop.
+The software on the server crashed because of a error.
+Every admin tested the machine after the error.
+The analyst debugged the code on the laptop.
+The database on the desktop crashed because of a crash.
+The analyst updated the software on the computer.
+The programmer installed the file on the laptop.
+The programmer installed the database on the desktop.
+The developer fixed the file on the desktop.
+A admin in the cloud debugged the database.
+A bug stopped the laptop in the datacenter.
+Every admin fixed the server after the glitch.
+The file on the laptop crashed because of a bug.
+Every student fixed the desktop after the error.
+The student found a virus in the file.
+The network on the desktop crashed because of a virus.
+The engineer updated the network on the server.
+A student in the cloud tested the program.
+Every admin tested the computer after the virus.
+The student updated the database on the computer.
+The analyst installed the program on the computer.
+A developer in the lab fixed the code.
+A bug stopped the computer in the cloud.
+The engineer found a glitch in the file.
+A analyst in the datacenter updated the database.
+A bug stopped the machine in the lab.
+A crash stopped the machine in the datacenter.
+The analyst found a error in the code.
+The file on the computer crashed because of a glitch.
+A virus stopped the server in the office.
+The admin found a glitch in the database.
+The student found a virus in the file.
+A programmer in the office debugged the code.
+The admin installed the network on the desktop.
+The admin found a crash in the database.
+A admin in the cloud restarted the code.
+The programmer restarted the network on the desktop.
+The database on the desktop crashed because of a virus.
+A bug stopped the computer in the datacenter.
+The database on the machine crashed because of a bug.
+A crash stopped the server in the datacenter.
+A analyst in the cloud debugged the database.
+The programmer found a virus in the code.
+Every admin debugged the computer after the crash.
+The code on the computer crashed because of a error.
+The developer found a glitch in the software.
+The software on the laptop crashed because of a error.
+The admin fixed the software on the computer.
+Every admin restarted the server after the bug.
+A engineer in the cloud fixed the code.
+Every analyst updated the machine after the virus.
+Every engineer debugged the computer after the error.
+The program on the laptop crashed because of a crash.
+The developer debugged the database on the machine.
+Every analyst restarted the laptop after the virus.
+A virus stopped the laptop in the office.
+The developer updated the file on the laptop.
+A programmer in the lab debugged the database.
+The analyst restarted the code on the server.
+The engineer found a error in the file.
+A bug stopped the server in the lab.
+The database on the laptop crashed because of a bug.
+A virus stopped the computer in the datacenter.
+A admin in the lab tested the network.
+The analyst found a error in the file.
+The program on the computer crashed because of a error.
+A programmer in the office restarted the code.
+Every developer tested the laptop after the error.
+The programmer found a glitch in the database.
+A error stopped the desktop in the office.
+The program on the desktop crashed because of a error.
+Every programmer restarted the computer after the error.
+A analyst in the cloud updated the network.
+A error stopped the computer in the cloud.
+The database on the laptop crashed because of a glitch.
+The developer found a crash in the database.
+The programmer found a virus in the code.
+The admin found a error in the code.
+Every developer debugged the computer after the error.
+The file on the desktop crashed because of a crash.
+The analyst found a virus in the network.
+The program on the desktop crashed because of a virus.
+A glitch stopped the desktop in the datacenter.
+A student in the office updated the software.
+The programmer found a bug in the software.
+The student updated the software on the desktop.
+A glitch stopped the laptop in the office.
+The programmer found a glitch in the database.
+Every programmer fixed the machine after the glitch.
+Every developer restarted the computer after the glitch.
+Every analyst debugged the server after the error.
+Every developer updated the desktop after the glitch.
+The analyst found a crash in the program.
+A bug stopped the machine in the lab.
+The software on the machine crashed because of a bug.
+The developer found a bug in the database.
+Every developer restarted the desktop after the bug.
+A crash stopped the server in the datacenter.
+The file on the desktop crashed because of a glitch.
+The student found a bug in the database.
+The analyst found a glitch in the database.
+The programmer restarted the network on the computer.
+A developer in the lab updated the code.
+A virus stopped the laptop in the cloud.
+The student found a error in the code.
+The admin restarted the program on the machine.
+A developer in the datacenter fixed the database.
+The developer found a virus in the program.
+Every student restarted the laptop after the glitch.
+The analyst restarted the database on the computer.
+A analyst in the lab updated the code.
+Every student fixed the desktop after the glitch.
+The database on the laptop crashed because of a bug.
+A student in the cloud installed the program.
+The code on the desktop crashed because of a bug.
+A glitch stopped the machine in the cloud.
+Every student installed the computer after the glitch.
+The admin debugged the program on the server.
+Every analyst tested the laptop after the glitch.
+The developer found a crash in the database.
+The programmer debugged the software on the computer.
+The program on the server crashed because of a bug.
+The code on the computer crashed because of a crash.
+A admin in the datacenter fixed the program.
+Every student installed the computer after the bug.
+A developer in the datacenter debugged the code.
+The programmer tested the file on the laptop.
+A engineer in the lab restarted the code.
+A engineer in the office tested the database.
+A developer in the lab installed the file.
+A student in the datacenter debugged the program.
+The file on the laptop crashed because of a bug.
+Every engineer installed the computer after the virus.
+A bug stopped the computer in the lab.
+A admin in the cloud restarted the network.
+The programmer found a bug in the network.
+The analyst found a bug in the network.
+The engineer installed the file on the laptop.
+A crash stopped the server in the cloud.
+Every admin restarted the desktop after the error.
+The developer fixed the network on the desktop.
+A programmer in the cloud debugged the file.
+The network on the desktop crashed because of a virus.
+The network on the server crashed because of a virus.
+A programmer in the cloud restarted the database.
+The software on the computer crashed because of a glitch.
+The network on the computer crashed because of a error.
+The engineer fixed the database on the machine.
+The analyst tested the program on the machine.
+A programmer in the lab debugged the network.
+A programmer in the datacenter debugged the database.
+Every engineer debugged the machine after the bug.
+The developer debugged the file on the laptop.
+A analyst in the cloud updated the software.
+A admin in the datacenter restarted the file.
+A crash stopped the laptop in the lab.
+The code on the desktop crashed because of a glitch.
+The analyst found a crash in the network.
+A crash stopped the server in the datacenter.
+The engineer found a virus in the software.
+Every developer fixed the machine after the crash.
+The admin debugged the file on the desktop.
+The file on the desktop crashed because of a virus.
+Every developer restarted the laptop after the crash.
+A error stopped the desktop in the datacenter.
+The program on the machine crashed because of a glitch.
+Every student fixed the laptop after the crash.
+The code on the server crashed because of a crash.
+A glitch stopped the server in the lab.
+The admin tested the network on the laptop.
+The program on the computer crashed because of a virus.
+A admin in the datacenter updated the program.
+The student fixed the program on the desktop.
+A engineer in the cloud tested the code.
+A developer in the office updated the program.
+The programmer found a error in the file.
+The software on the server crashed because of a virus.
+The admin restarted the network on the server.
+A programmer in the datacenter debugged the software.
+A programmer in the datacenter tested the program.
+A analyst in the office debugged the code.
+The engineer fixed the software on the machine.
+The network on the server crashed because of a glitch.
+The student restarted the network on the computer.
+Every student debugged the desktop after the error.
+The developer found a crash in the software.
+A glitch stopped the server in the cloud.
+A admin in the cloud fixed the file.
+Every admin tested the computer after the bug.
+The analyst found a bug in the network.
+A analyst in the datacenter tested the network.
+Every engineer restarted the machine after the virus.
+A virus stopped the laptop in the office.
+The file on the machine crashed because of a virus.
+The student found a glitch in the program.
+Every student restarted the machine after the bug.
+A programmer in the datacenter updated the file.
+The admin found a glitch in the program.
+A crash stopped the laptop in the datacenter.
+A admin in the cloud debugged the program.
+The admin found a glitch in the software.
+A virus stopped the computer in the lab.
+The program on the laptop crashed because of a virus.
+A bug stopped the machine in the datacenter.
+The developer found a glitch in the software.
+The program on the laptop crashed because of a crash.
+Every student fixed the laptop after the virus.
+A admin in the office tested the file.
+The student found a glitch in the network.
+The engineer found a glitch in the program.
+Every analyst fixed the desktop after the virus.
+A glitch stopped the computer in the cloud.
+A error stopped the computer in the datacenter.
+Every student fixed the server after the bug.
+The program on the computer crashed because of a bug.
+A analyst in the lab fixed the code.
+A developer in the datacenter restarted the file.
+The analyst found a glitch in the file.
+A error stopped the machine in the datacenter.
+Every student fixed the desktop after the virus.
+The software on the laptop crashed because of a bug.
+The engineer found a error in the program.
+A glitch stopped the machine in the office.
+The developer found a error in the program.
+Every admin fixed the machine after the error.
+A developer in the office tested the network.
+A programmer in the cloud restarted the file.
+A admin in the datacenter restarted the file.
+Every admin installed the server after the bug.
+A analyst in the cloud updated the software.
+A engineer in the lab fixed the network.
+The developer restarted the software on the laptop.
+The admin tested the program on the machine.
+A glitch stopped the desktop in the cloud.
+The engineer debugged the program on the machine.
+A error stopped the laptop in the datacenter.
+The software on the computer crashed because of a glitch.
+Every engineer restarted the desktop after the virus.
+A programmer in the lab debugged the network.
+A glitch stopped the computer in the office.
+A crash stopped the server in the datacenter.
+The student found a error in the code.
+The software on the server crashed because of a glitch.
+The network on the laptop crashed because of a crash.
+A admin in the office installed the code.
+Every engineer restarted the server after the crash.
+Every admin installed the laptop after the virus.
+Every admin debugged the computer after the error.
+The admin updated the code on the machine.
+The student found a bug in the program.
+The program on the machine crashed because of a crash.
+The software on the machine crashed because of a glitch.
+A student in the cloud updated the code.
+The developer restarted the file on the computer.
+A glitch stopped the laptop in the datacenter.
+Every engineer fixed the laptop after the error.
+The network on the machine crashed because of a bug.
+The analyst restarted the file on the machine.
+The software on the server crashed because of a glitch.
+A programmer in the cloud debugged the code.
+The developer found a error in the code.
+The admin installed the network on the computer.
+The code on the machine crashed because of a glitch.
+The file on the computer crashed because of a virus.
+A developer in the lab installed the software.
+A bug stopped the laptop in the office.
+The file on the computer crashed because of a virus.
+The network on the desktop crashed because of a error.
+A virus stopped the machine in the lab.
+A virus stopped the laptop in the cloud.
+The student found a crash in the program.
+A bug stopped the machine in the datacenter.
+Every engineer restarted the computer after the crash.
+The student fixed the program on the laptop.
+The software on the machine crashed because of a virus.
+A engineer in the office tested the network.
+The database on the server crashed because of a glitch.
+A engineer in the lab updated the program.
+The program on the laptop crashed because of a virus.
+The file on the computer crashed because of a crash.
+The code on the computer crashed because of a virus.
+The file on the computer crashed because of a virus.
+The database on the laptop crashed because of a error.
+The student updated the file on the laptop.
+A developer in the office fixed the network.
+The admin found a bug in the program.
+Every engineer installed the machine after the glitch.
+The file on the computer crashed because of a crash.
+Every admin fixed the machine after the bug.
+The software on the computer crashed because of a error.
+Every admin installed the laptop after the bug.
+The file on the desktop crashed because of a crash.
+The file on the server crashed because of a error.
+The developer updated the program on the machine.
+The engineer tested the code on the machine.
+The admin found a crash in the software.
+The student tested the network on the computer.
+A crash stopped the laptop in the cloud.
+The file on the machine crashed because of a glitch.
+The programmer fixed the code on the desktop.
+A glitch stopped the computer in the datacenter.
+The developer restarted the network on the desktop.
+Every engineer restarted the laptop after the error.
+Every analyst updated the server after the virus.
+Every student installed the desktop after the bug.
+The programmer found a glitch in the database.
+The analyst found a glitch in the program.
+The analyst installed the program on the machine.
+The database on the machine crashed because of a crash.
+Every programmer installed the machine after the virus.
+The programmer restarted the database on the desktop.
+A error stopped the laptop in the lab.
+The code on the laptop crashed because of a virus.
+The engineer debugged the file on the laptop.
+The admin tested the network on the laptop.
+The programmer found a crash in the program.
+A virus stopped the server in the cloud.
+The student found a crash in the code.
+The student updated the network on the desktop.
+A virus stopped the desktop in the office.
+The software on the machine crashed because of a glitch.
+A programmer in the lab debugged the network.
+Every student debugged the server after the bug.
+Every programmer restarted the server after the bug.
+A admin in the datacenter restarted the code.
+The code on the computer crashed because of a virus.
+Every admin debugged the desktop after the crash.

@@ -1,0 +1,400 @@
+The horse hid in the mouse by the hill.
+A rabbit chased near the fence.
+A hungry rabbit found a mouse at the river.
+A horse ran near the tree.
+Every dog in the field hunted at dawn.
+A dog slept near the grass.
+A dog chased near the grass.
+The rabbit watched through the field.
+A cat ran near the tree.
+The wolf watched the tree in the hill.
+The fox slept through the river.
+Every dog in the hill hunted at dawn.
+The wolf jumped the tree in the field.
+A hungry cat found a fence at the barn.
+Every fox in the barn hunted at dawn.
+The cat watched the nest in the meadow.
+A dog ran near the mouse.
+A cat chased near the burrow.
+The cat jumped through the hill.
+The dog hid in the burrow by the barn.
+A hungry fox found a burrow at the forest.
+The cat slept through the river.
+Every cat in the hill slept at dawn.
+The horse hid in the fence by the forest.
+Every rabbit in the forest jumped at dawn.
+The rabbit ran through the barn.
+The fox hid in the burrow by the hill.
+The horse jumped the mouse in the hill.
+The dog hid in the mouse by the hill.
+The wolf slept the mouse in the hill.
+Every horse in the hill hunted at dawn.
+The horse hid in the fence by the meadow.
+Every fox in the meadow watched at dawn.
+A hungry horse found a tree at the forest.
+The horse slept through the hill.
+The dog watched through the hill.
+The rabbit hid in the mouse by the river.
+A cat chased near the burrow.
+The wolf ran through the barn.
+The cat hid in the grass by the forest.
+Every cat in the hill ran at dawn.
+Every rabbit in the meadow chased at dawn.
+A wolf watched near the burrow.
+A wolf hunted near the mouse.
+The rabbit jumped the grass in the river.
+The rabbit hunted the tree in the river.
+The wolf hid in the burrow by the forest.
+A wolf chased near the grass.
+The horse watched through the barn.
+A fox jumped near the nest.
+The horse hid in the grass by the field.
+The dog hid in the tree by the forest.
+A hungry fox found a fence at the forest.
+Every cat in the meadow slept at dawn.
+A fox hunted near the fence.
+The wolf jumped through the hill.
+A hungry dog found a tree at the forest.
+The wolf jumped through the river.
+A cat slept near the fence.
+A cat watched near the tree.
+Every cat in the forest jumped at dawn.
+Every horse in the barn chased at dawn.
+Every wolf in the forest chased at dawn.
+The cat hunted the fence in the forest.
+The dog hunted the mouse in the meadow.
+A fox jumped near the nest.
+A fox slept near the mouse.
+The rabbit hunted the nest in the meadow.
+Every wolf in the field jumped at dawn.
+The dog hid in the nest by the river.
+The fox watched through the barn.
+Every rabbit in the field hunted at dawn.
+The dog hid in the grass by the meadow.
+A hungry wolf found a nest at the field.
+A hungry dog found a nest at the hill.
+The fox hunted the mouse in the hill.
+A hungry wolf found a grass at the hill.
+Every horse in the meadow chased at dawn.
+The rabbit hid in the grass by the field.
+A hungry dog found a fence at the river.
+The rabbit watched through the hill.
+The dog hunted the nest in the river.
+The fox slept through the hill.
+The cat watched the mouse in the meadow.
+A fox chased near the fence.
+A hungry rabbit found a grass at the river.
+The rabbit hid in the grass by the forest.
+Every fox in the meadow hunted at dawn.
+A hungry cat found a fence at the forest.
+A hungry dog found a nest at the meadow.
+The rabbit watched through the meadow.
+The fox hunted through the river.
+The rabbit chased through the meadow.
+The dog jumped through the meadow.
+The fox watched the fence in the meadow.
+A hungry rabbit found a fence at the hill.
+The wolf hid in the tree by the hill.
+Every dog in the hill chased at dawn.
+The cat hid in the mouse by the meadow.
+The horse chased the mouse in the river.
+Every horse in the field jumped at dawn.
+Every horse in the barn chased at dawn.
+The fox ran the mouse in the river.
+The cat ran through the hill.
+The fox hid in the burrow by the hill.
+The rabbit chased the tree in the barn.
+The rabbit ran through the field.
+The cat hunted the nest in the hill.
+The rabbit ran the tree in the meadow.
+A hungry horse found a grass at the barn.
+A cat hunted near the fence.
+The rabbit hid in the grass by the forest.
+Every wolf in the barn chased at dawn.
+The horse chased through the field.
+The wolf chased the burrow in the hill.
+The wolf slept the burrow in the field.
+A fox jumped near the tree.
+A dog slept near the burrow.
+The rabbit watched through the forest.
+The cat hid in the fence by the meadow.
+A hungry horse found a tree at the river.
+The fox watched the tree in the barn.
+The fox ran the tree in the river.
+A hungry horse found a mouse at the meadow.
+Every cat in the river watched at dawn.
+The horse hid in the nest by the forest.
+Every horse in the forest hunted at dawn.
+A hungry cat found a tree at the field.
+The cat chased through the field.
+Every horse in the hill hunted at dawn.
+The fox ran the mouse in the river.
+The wolf watched through the river.
+Every horse in the forest ran at dawn.
+A dog slept near the mouse.
+A dog jumped near the nest.
+The rabbit slept through the field.
+The fox chased the nest in the hill.
+A hungry fox found a tree at the meadow.
+A hungry cat found a tree at the river.
+The wolf hid in the fence by the forest.
+The fox jumped through the field.
+The rabbit jumped the tree in the forest.
+The wolf hid in the fence by the field.
+The dog chased through the meadow.
+The rabbit chased the mouse in the hill.
+A hungry cat found a burrow at the hill.
+Every rabbit in the river slept at dawn.
+The fox jumped the fence in the river.
+A hungry cat found a fence at the meadow.
+A fox hunted near the mouse.
+The cat slept the mouse in the river.
+A wolf watched near the tree.
+Every wolf in the forest chased at dawn.
+A cat ran near the fence.
+The wolf chased the tree in the field.
+The rabbit hid in the nest by the field.
+The horse watched the grass in the river.
+The horse hid in the burrow by the forest.
+A hungry wolf found a grass at the field.
+A dog watched near the grass.
+The dog jumped the nest in the hill.
+Every cat in the hill watched at dawn.
+The rabbit ran through the barn.
+A hungry rabbit found a tree at the meadow.
+The dog slept through the field.
+Every cat in the river jumped at dawn.
+The cat hunted through the barn.
+A hungry rabbit found a mouse at the meadow.
+A hungry dog found a nest at the meadow.
+The cat hunted the fence in the river.
+The horse hid in the mouse by the river.
+The rabbit hid in the mouse by the barn.
+Every dog in the forest slept at dawn.
+The rabbit hid in the tree by the forest.
+A dog jumped near the tree.
+The cat hid in the tree by the forest.
+The rabbit jumped through the hill.
+A dog watched near the tree.
+The dog ran through the barn.
+A hungry wolf found a burrow at the barn.
+The rabbit hid in the nest by the hill.
+A hungry horse found a nest at the forest.
+The dog hid in the nest by the field.
+Every horse in the field slept at dawn.
+A hungry rabbit found a burrow at the field.
+The horse ran the mouse in the forest.
+The fox hid in the grass by the hill.
+The fox watched through the hill.
+The fox slept the grass in the forest.
+The horse hunted the fence in the field.
+Every rabbit in the river jumped at dawn.
+A wolf chased near the grass.
+The dog jumped the tree in the river.
+A wolf watched near the grass.
+Every dog in the hill watched at dawn.
+The wolf hid in the burrow by the meadow.
+The wolf hid in the burrow by the forest.
+Every wolf in the river hunted at dawn.
+The dog watched the burrow in the barn.
+The wolf slept through the field.
+The fox hunted the burrow in the forest.
+The fox hid in the fence by the hill.
+A hungry rabbit found a mouse at the field.
+Every fox in the field jumped at dawn.
+A wolf slept near the mouse.
+The dog ran the fence in the meadow.
+The cat hunted through the barn.
+A hungry dog found a fence at the meadow.
+A cat hunted near the mouse.
+The fox slept the mouse in the forest.
+The rabbit hid in the burrow by the river.
+Every rabbit in the forest jumped at dawn.
+Every rabbit in the field ran at dawn.
+Every wolf in the hill ran at dawn.
+A hungry wolf found a burrow at the meadow.
+The cat hunted the nest in the river.
+Every wolf in the field slept at dawn.
+Every rabbit in the field jumped at dawn.
+Every cat in the river slept at dawn.
+A rabbit hunted near the mouse.
+A dog jumped near the burrow.
+A hungry dog found a burrow at the barn.
+The cat hid in the tree by the hill.
+The fox hid in the nest by the barn.
+The horse hid in the fence by the forest.
+The wolf watched through the meadow.
+The horse hunted through the meadow.
+The cat hid in the nest by the barn.
+The wolf chased through the hill.
+The horse jumped through the hill.
+A dog hunted near the tree.
+The horse ran the grass in the river.
+A hungry cat found a fence at the barn.
+Every rabbit in the meadow jumped at dawn.
+A hungry horse found a tree at the field.
+The fox ran through the hill.
+The fox slept through the forest.
+Every fox in the hill ran at dawn.
+Every fox in the meadow slept at dawn.
+A fox hunted near the grass.
+The dog hid in the fence by the meadow.
+Every horse in the field ran at dawn.
+The dog watched through the hill.
+The fox chased the tree in the meadow.
+The dog chased through the forest.
+The horse watched through the meadow.
+A horse hunted near the fence.
+The horse slept the mouse in the meadow.
+The cat hid in the mouse by the hill.
+Every horse in the hill ran at dawn.
+A dog jumped near the tree.
+A hungry wolf found a burrow at the field.
+Every dog in the hill hunted at dawn.
+A horse ran near the mouse.
+A hungry wolf found a fence at the forest.
+The fox hid in the grass by the barn.
+The rabbit slept the nest in the forest.
+A horse watched near the fence.
+The rabbit watched the tree in the barn.
+The dog hunted the burrow in the hill.
+The horse hunted through the barn.
+The horse chased the grass in the field.
+Every fox in the meadow jumped at dawn.
+A hungry horse found a tree at the forest.
+The dog slept through the meadow.
+Every wolf in the forest watched at dawn.
+The rabbit slept the fence in the meadow.
+The dog slept the grass in the hill.
+The fox hid in the tree by the field.
+The wolf ran the grass in the meadow.
+The rabbit hid in the grass by the forest.
+The rabbit ran through the river.
+The horse hid in the mouse by the hill.
+Every dog in the barn jumped at dawn.
+A hungry rabbit found a burrow at the river.
+The fox chased through the forest.
+The fox slept the mouse in the river.
+Every horse in the river watched at dawn.
+The horse ran the grass in the meadow.
+A hungry cat found a burrow at the field.
+The cat watched through the field.
+The cat hid in the nest by the river.
+The dog hid in the tree by the field.
+The dog hunted the tree in the field.
+Every fox in the hill slept at dawn.
+The fox ran the tree in the hill.
+Every rabbit in the hill jumped at dawn.
+Every horse in the forest jumped at dawn.
+A hungry horse found a nest at the river.
+A cat watched near the fence.
+A hungry cat found a burrow at the barn.
+A fox jumped near the mouse.
+The horse hid in the tree by the forest.
+The cat watched through the field.
+The fox hid in the tree by the river.
+The cat hid in the tree by the field.
+A horse slept near the burrow.
+The wolf hid in the fence by the river.
+A cat watched near the nest.
+A rabbit hunted near the tree.
+Every rabbit in the forest chased at dawn.
+Every cat in the forest slept at dawn.
+A hungry fox found a burrow at the forest.
+A hungry cat found a grass at the field.
+A wolf chased near the fence.
+A cat watched near the nest.
+A fox watched near the mouse.
+The wolf hid in the burrow by the hill.
+A hungry dog found a fence at the hill.
+A hungry dog found a nest at the field.
+The dog hid in the nest by the forest.
+A hungry cat found a burrow at the barn.
+The wolf jumped through the forest.
+A hungry rabbit found a tree at the barn.
+Every wolf in the field hunted at dawn.
+Every rabbit in the river ran at dawn.
+A hungry cat found a grass at the meadow.
+Every dog in the hill chased at dawn.
+A wolf hunted near the grass.
+The dog jumped the burrow in the meadow.
+The wolf hunted through the field.
+The fox hid in the mouse by the meadow.
+The fox jumped the grass in the field.
+The rabbit ran the tree in the barn.
+A hungry rabbit found a burrow at the forest.
+A fox hunted near the grass.
+Every cat in the meadow slept at dawn.
+The fox chased through the field.
+A fox watched near the mouse.
+A cat chased near the grass.
+The cat watched through the barn.
+The rabbit hid in the fence by the field.
+The wolf watched through the river.
+The wolf ran the mouse in the meadow.
+A hungry cat found a fence at the field.
+The rabbit hid in the burrow by the barn.
+Every rabbit in the forest ran at dawn.
+A dog slept near the grass.
+Every cat in the forest slept at dawn.
+The cat chased through the hill.
+The wolf ran through the forest.
+The rabbit hid in the mouse by the hill.
+The dog chased the tree in the field.
+Every dog in the meadow chased at dawn.
+The wolf hid in the nest by the barn.
+The dog chased through the meadow.
+The dog hid in the burrow by the river.
+The rabbit slept the tree in the hill.
+The horse watched through the barn.
+The cat watched through the river.
+The horse watched through the barn.
+Every rabbit in the forest ran at dawn.
+Every horse in the barn slept at dawn.
+The rabbit hid in the fence by the forest.
+The wolf hid in the mouse by the forest.
+Every horse in the meadow ran at dawn.
+Every wolf in the forest slept at dawn.
+Every rabbit in the field slept at dawn.
+Every cat in the meadow jumped at dawn.
+A hungry dog found a tree at the meadow.
+The dog hid in the fence by the meadow.
+A hungry cat found a tree at the river.
+Every horse in the hill hunted at dawn.
+The cat ran through the meadow.
+The dog hid in the grass by the meadow.
+A hungry wolf found a mouse at the forest.
+The dog watched through the hill.
+A hungry wolf found a grass at the forest.
+Every dog in the field watched at dawn.
+A hungry dog found a tree at the hill.
+The cat hunted through the field.
+The fox hunted the fence in the river.
+A hungry cat found a mouse at the hill.
+The cat hid in the burrow by the hill.
+The rabbit hunted through the hill.
+The wolf hid in the nest by the field.
+A dog ran near the burrow.
+The wolf slept the nest in the barn.
+The fox slept through the river.
+A hungry fox found a tree at the barn.
+The horse hunted the grass in the river.
+The wolf hid in the mouse by the meadow.
+The horse chased the nest in the meadow.
+Every cat in the forest watched at dawn.
+The horse hid in the nest by the forest.
+Every wolf in the forest slept at dawn.
+The dog hid in the mouse by the forest.
+A cat watched near the fence.
+Every wolf in the hill ran at dawn.
+The dog hunted through the river.
+A hungry rabbit found a tree at the meadow.
+Every rabbit in the field hunted at dawn.
+The dog hid in the grass by the field.
+A wolf chased near the grass.
+The rabbit slept the burrow in the hill.
+The horse hid in the fence by the river.
+The cat chased through the meadow.
+The cat watched the burrow in the forest.
+A cat chased near the tree.
+A hungry rabbit found a mouse at the forest.
