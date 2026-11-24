@@ -1,4 +1,4 @@
-# Text Brain
+# gpt 0.1
 
 One neural network, in pure JavaScript, that runs in the terminal. No libraries, no install. Needs Node 14+.
 
